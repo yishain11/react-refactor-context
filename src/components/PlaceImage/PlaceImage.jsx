@@ -1,3 +1,5 @@
+import { getImageUrl } from '../../utils';
+
 export default function PlaceImage({ place, imageSize }) {
     return (
         <img
